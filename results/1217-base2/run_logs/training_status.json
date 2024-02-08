@@ -1,0 +1,65 @@
+{
+    "Marienoko": {
+        "checkpoints": [
+            {
+                "steps": 1145309,
+                "file_path": "results\\1217-base2\\Marienoko\\Marienoko-1145309.onnx",
+                "reward": null,
+                "creation_time": 1702828159.979132,
+                "auxillary_file_paths": [
+                    "results\\1217-base2\\Marienoko\\Marienoko-1145309.pt"
+                ]
+            },
+            {
+                "steps": 1145575,
+                "file_path": "results\\1217-base2\\Marienoko\\Marienoko-1145575.onnx",
+                "reward": null,
+                "creation_time": 1702828267.9392202,
+                "auxillary_file_paths": [
+                    "results\\1217-base2\\Marienoko\\Marienoko-1145575.pt"
+                ]
+            },
+            {
+                "steps": 1145840,
+                "file_path": "results\\1217-base2\\Marienoko\\Marienoko-1145840.onnx",
+                "reward": null,
+                "creation_time": 1702828517.1778631,
+                "auxillary_file_paths": [
+                    "results\\1217-base2\\Marienoko\\Marienoko-1145840.pt"
+                ]
+            },
+            {
+                "steps": 1146106,
+                "file_path": "results\\1217-base2\\Marienoko\\Marienoko-1146106.onnx",
+                "reward": null,
+                "creation_time": 1702828544.0326545,
+                "auxillary_file_paths": [
+                    "results\\1217-base2\\Marienoko\\Marienoko-1146106.pt"
+                ]
+            },
+            {
+                "steps": 1146408,
+                "file_path": "results\\1217-base2\\Marienoko\\Marienoko-1146408.onnx",
+                "reward": 0.5,
+                "creation_time": 1702828593.580894,
+                "auxillary_file_paths": [
+                    "results\\1217-base2\\Marienoko\\Marienoko-1146408.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1146408,
+            "file_path": "results\\1217-base2\\Marienoko.onnx",
+            "reward": 0.5,
+            "creation_time": 1702828593.580894,
+            "auxillary_file_paths": [
+                "results\\1217-base2\\Marienoko\\Marienoko-1146408.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1"
+    }
+}
